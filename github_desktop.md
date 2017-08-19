@@ -1,1 +1,1 @@
-# Installed GitHub Desktop (Electron One) 
+# Installed GitHub Desktop (Electron Edition) 
