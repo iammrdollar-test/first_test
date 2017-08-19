@@ -1,3 +1,1 @@
-# Installed GitHub Desktop (Electron Edition) 
-
-- Better
+# Installed GitHub Desktop (Electron One) 
